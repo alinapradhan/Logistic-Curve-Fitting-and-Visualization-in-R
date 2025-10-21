@@ -70,7 +70,3 @@ The script produces the following outputs in sequence:
 
 
 
-
-For any questions or contributions, please open an issue or submit a pull request.
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/84507209/6df55f61-10ab-4035-8e6b-5bed2f8269d9/prac-3-logistic-curve.R)
