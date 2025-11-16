@@ -119,7 +119,7 @@ legend("bottomright", legend = paste("k =", k_vals), col = 1:length(k_vals), lwd
 # ---------------------------------------
 # Plot 3: Effect of x0 (Midpoint)
 # ---------------------------------------
-L <- 100
+L <- 150
 k <- 0.5
 x0_vals <- c(5, 10, 15)
 plot(x, rep(NA, length(x)), type = "n", ylim = c(0, L), 
